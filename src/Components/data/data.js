@@ -7,8 +7,4 @@ export const navbarData = [
     title: "Users",
     link: "/users",
   },
-  {
-    title: "Projects",
-    link: "/projects",
-  },
 ];
