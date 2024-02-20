@@ -11,8 +11,4 @@ export const navbarData = [
     title: "Projects",
     link: "/projects",
   },
-  {
-    title: "Tasks",
-    link: "/tasks",
-  },
 ];
